@@ -1,0 +1,2 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=65zlui)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=65zlui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
