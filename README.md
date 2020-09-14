@@ -1,2 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=65zlui&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=65zlui&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=65zlui&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=65zlui&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
